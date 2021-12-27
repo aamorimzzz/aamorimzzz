@@ -1,9 +1,8 @@
 ### olá mundo! 👋
 
 - 🔭 estou trabalhando com back end
-- 🌱 estou aprendendo pyhton.
 - 📫 contate - me: Thiagoamorim.n@gmail.com
-- 😄 Pronouns: neymarsexual.
+
 
 <div align="center">
   <a href="https://github.com/aamorimzzz">
