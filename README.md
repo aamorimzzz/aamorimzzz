@@ -1,6 +1,6 @@
 ### olá mundo! 👋
 
-- 🔭 estou trabalhando com back end
+- 🔭  trabalho com back end para mais informações acesse meu linked in.
 - 📫 contate - me: Thiagoamorim.n@gmail.com
 
 
